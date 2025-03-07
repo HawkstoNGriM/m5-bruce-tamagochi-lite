@@ -141,8 +141,8 @@ function drawPet(pet) {
 function showHeartAnimation() {
   var screenWidth = width();
   var screenHeight = height();
-  var heartText = "<3 o-o <3";
-  var heartWidth = heartText.length * 12; // Approximate width
+  var heartText = "[pet says] I <3-<3 You !!";
+  var heartWidth = heartText.length * 12;
   var heartX = Math.floor((screenWidth - heartWidth) / 2);
   var heartY = Math.floor(screenHeight * 0.5);
 
