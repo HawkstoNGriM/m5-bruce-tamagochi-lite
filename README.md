@@ -25,15 +25,6 @@
 -To me for fixing (for hours) whatever deepseek generates (I feel like itd be faster if i did it on my own, but anway, thanks Chinese ai) 
 
 # Future updates
-- Fix spacing
-- Add more colors (visibility reasons)
-- Fix heart option not displaying the gotchi bg colors 
-- Fix mechanics - make it harder for gotchi to be happy (its too easy now) 
-	* Add filth increasing with time (just like hunger) which makes gotchi sad
-	* Make sure every time i click "clean" that it actually cleans him fully
-	* Make sure every time i click feed it makes him eat fully 
-	* But every "pet" option to pet the pet will only increase hapiness for 10%
-	* Make it so that if not hungry and if clean and if pet twice(20%) then he is happy - so thats probably around 80% hapiness at least - to display actual happy emotions
 - 
 
 # Created by
